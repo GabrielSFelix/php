@@ -1,4 +1,3 @@
 <?php
-	echo "Hello World!";
-	echo "Hello all folkss!";
+	echo "Hello World alterado!";
 ?>
